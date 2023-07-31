@@ -9,5 +9,6 @@
 ## Perfiles
 - [Lino Mediavilla](https://github.com/linomp)
 - [Franklin Lucero](https://github.com/fabo94)
+- [Stefano Buitrón C.](https://github.com/StefanoBC)
 
 
